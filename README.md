@@ -70,10 +70,13 @@ Project ini dikembangkan dengan menerapkan prinsip-prinsip *Object-Oriented Prog
 2. Buka project menggunakan IDE Java pilihan Anda (Direkomendasikan IntelliJ IDEA)[cite: 2].
 3. Pastikan JDK (versi 17 atau versi terbaru) telah terpasang dan terkonfigurasi pada project[cite: 2].
 4. Jalankan aplikasi melalui file Main.java[cite: 2].
+```
+---
 
 ## 👨‍💻 Kontributor
 
 * **Muhammad Irfan Maulana** *(Prodi S1-Sistem Informasi | Universitas Siber Asia)*
+
 ---
 <div align="center">
   <small>Dibuat dengan ❤️ untuk memenuhi penilaian UAS Semester 4 pada mata kuliah Pemrograman Berorientasi Objek (OOP).</small>
